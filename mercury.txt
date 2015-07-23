@@ -1,1 +1,3 @@
-Mercury is the first planet
+<<<<<<< HEAD
+Mercury is the first planet.   Mercury is a small planet. 
+>>>>>>> 9b6d9950c9711be48b87e75eb378b4712b145c26
